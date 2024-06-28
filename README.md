@@ -16,7 +16,7 @@ Fraud detection is a challenge in machine learning due to the imbalance of class
 2. **Data analysis:** Several machine learning algorithms, including Decision trees, random forests, basic artificial neural networks, autoencoder, XGBoost, balanced random forests, ensemble models, k-Means, logistic regression to detect and predict fraud given certain features.
 3. **Models' effectiveness evaluation:** Using F1-score, which is relevant in class imbalance problems.
 
-**_NB:_** Only Tomek Link, k-Means, logistic regression, and autoencoder algorithms can be found on this repository. The other algorithms are available on [Adrien's repository](https://github.com/adcastex/fouille_de_donnees).
+**_NB:_** Only Tomek Link, k-Means, logistic regression, and autoencoder algorithms can be found on this repository. The other algorithms are available on the [original repository](https://github.com/adcastex/fouille_de_donnees).
 
 ## Results 📍
 
