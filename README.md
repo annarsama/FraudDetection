@@ -1,8 +1,8 @@
 # Fraud Detection Project
 
-This is the final project for a Big Data lesson (from Master 2 SISE at the _Université Lumière Lyon 2_) headed by [Guillaume METZLER](https://guillaumemetzler.github.io/). The aim of this project was to detect and predict fraud given certain features and using machine learning algorithms.
+This is the final project for a Big Data course (from the Master 2 SISE program at the _Université Lumière Lyon 2_) headed by [Guillaume METZLER](https://guillaumemetzler.github.io/). The aim of this project was to detect and predict fraud given certain features and using machine learning algorithms.
 
-We had over 11 million real transactions from _Fichier National des Chèques Irréguliers_ (FNCI) and the _Banque de France_.
+We had over 11 million actual transactions from _Fichier National des Chèques Irréguliers_ (FNCI) and the _Banque de France_.
 
 The original project can be found [here](https://github.com/adcastex/fouille_de_donnees) in French.
 
